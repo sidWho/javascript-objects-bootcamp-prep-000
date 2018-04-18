@@ -8,4 +8,4 @@ var drinks = {
   energy: 'redbull'
 }
 
-car test = ""
+var model = "Honda"
