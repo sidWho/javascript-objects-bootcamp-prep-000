@@ -11,6 +11,7 @@ var drinks = {
 var make = "Honda"
 var cars = {[make] : 'civic' }
 
-var playlist = { Cher : 'My Love',
-                 Diljit: 'lambhorgini' }
+var playlist = {}
+
+
 
