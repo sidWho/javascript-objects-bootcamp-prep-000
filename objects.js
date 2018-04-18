@@ -7,3 +7,5 @@ var drinks = {
   juice: 'apple',
   energy: 'redbull'
 }
+
+car test = ""
