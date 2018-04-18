@@ -13,7 +13,7 @@ var cars = {[make] : 'civic' }
 
 var playlist = {artist: 'Song Title'}
 
-function updatePlaylist(playlist, key, value) {
+function updatePlaylist(playlist, artistname, value) {
   obj.key = value
   return obj
 }
