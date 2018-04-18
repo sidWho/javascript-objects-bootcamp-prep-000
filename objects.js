@@ -8,4 +8,5 @@ var drinks = {
   energy: 'redbull'
 }
 
-var model = "Honda"
+var make = "Honda"
+var cars = {[make] : 'civic' }
