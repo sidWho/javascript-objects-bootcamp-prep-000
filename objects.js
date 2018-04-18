@@ -1,3 +1,4 @@
 var meals = {breakfast : 'oatmeal'}
 
-var deserts = obj 
+var deserts = new Object();
+
