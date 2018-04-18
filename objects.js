@@ -14,7 +14,9 @@ var cars = {[make] : 'civic' }
 var playlist = {artist: 'Song Title'}
 
 function updatePlaylist(playlist, artistname, songtitle) {
-  
   return playlist[artistname] = songtitle
 }
 
+
+function updatePlaylist(playlist, artistname, songtitle) {
+  return playlist[artistname] = songtitle
